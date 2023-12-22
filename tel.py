@@ -217,6 +217,8 @@ events_list = events
 
 # Loop through each event
 for event in events_list:
+    # sessions = sessions_available(YEAR, event)
+    sessions = ["Practice 1", "Practice 2", "Qualifying", "Race"]
     if event == "Styrian Grand Prix":
         sessions = ["Practice 1", "Practice 2", "Qualifying", "Race"]
     if event == "Eifel Grand Prix":
@@ -224,9 +226,8 @@ for event in events_list:
     if event == "Emilia Romagna Grand Prix":
         sessions = ["Practice 1", "Qualifying", "Race"]
 
-    else:
-        # Get sessions for the current event
-        sessions = sessions_available(YEAR, event)
+    
+        
     
     
 
