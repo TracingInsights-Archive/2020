@@ -19,8 +19,9 @@ def events_available(year: int) -> any:
 
 events = [#'Austrian Grand Prix', 
 
-'Styrian Grand Prix', 
-    #'Hungarian Grand Prix', 'British Grand Prix', '70th Anniversary Grand Prix', 'Spanish Grand Prix', 'Belgian Grand Prix', 'Italian Grand Prix', 'Tuscan Grand Prix', 'Russian Grand Prix', 'Eifel Grand Prix', 'Portuguese Grand Prix', 'Emilia Romagna Grand Prix', 'Turkish Grand Prix', 'Bahrain Grand Prix', 'Sakhir Grand Prix', 'Abu Dhabi Grand Prix'
+# 'Styrian Grand Prix', 
+    'Hungarian Grand Prix', 'British Grand Prix', 
+    # '70th Anniversary Grand Prix', 'Spanish Grand Prix', 'Belgian Grand Prix', 'Italian Grand Prix', 'Tuscan Grand Prix', 'Russian Grand Prix', 'Eifel Grand Prix', 'Portuguese Grand Prix', 'Emilia Romagna Grand Prix', 'Turkish Grand Prix', 'Bahrain Grand Prix', 'Sakhir Grand Prix', 'Abu Dhabi Grand Prix'
 
 ]
          
@@ -217,8 +218,8 @@ events_list = events
 
 # Loop through each event
 for event in events_list:
-    # sessions = sessions_available(YEAR, event)
-    sessions = ["Practice 1", "Practice 2", "Qualifying", "Race"]
+    sessions = sessions_available(YEAR, event)
+    
     if event == "Styrian Grand Prix":
         sessions = ["Practice 1", "Practice 2", "Qualifying", "Race"]
     if event == "Eifel Grand Prix":
