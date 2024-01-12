@@ -25,8 +25,9 @@ events = [#'Austrian Grand Prix',
     # 'Italian Grand Prix', 'Tuscan Grand Prix', 'Russian Grand Prix',
     # 'Eifel Grand Prix', 'Portuguese Grand Prix', 'Emilia Romagna Grand Prix', 
     # 'Turkish Grand Prix', 
-    'Bahrain Grand Prix', 'Sakhir Grand Prix',
     # 'Abu Dhabi Grand Prix'
+    'Bahrain Grand Prix', 'Sakhir Grand Prix',
+    
 
 ]
          
