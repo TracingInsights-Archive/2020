@@ -17,12 +17,12 @@ def events_available(year: int) -> any:
     return events
 
 
-events = [#'Austrian Grand Prix', 
-
-# 'Styrian Grand Prix', 
-    # 'Hungarian Grand Prix',
-    'British Grand Prix', 
-    '70th Anniversary Grand Prix', 
+events = [
+    'Austrian Grand Prix', 
+'Styrian Grand Prix', 
+    'Hungarian Grand Prix',
+    # 'British Grand Prix', 
+    # '70th Anniversary Grand Prix', 
     # 'Spanish Grand Prix', 'Belgian Grand Prix', 
     # 'Italian Grand Prix', 'Tuscan Grand Prix', 
     # 'Russian Grand Prix',
