@@ -88,6 +88,13 @@ events_list = events
 for event in events_list:
     sessions = sessions_available(YEAR, event)
     
+    if event == "Styrian Grand Prix":
+        sessions = ["Practice 1", "Practice 2", "Qualifying", "Race"]
+    if event == "Eifel Grand Prix":
+         sessions = ["Practice 3", "Qualifying", "Race"]
+    if event == "Emilia Romagna Grand Prix":
+        sessions = ["Practice 1", "Qualifying", "Race"]
+    
 
     for session in sessions:
         fastest_lap_dict = fastest_lap(YEAR, event, session)
