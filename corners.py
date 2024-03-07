@@ -7,18 +7,18 @@ YEAR = 2020
 
 events = [
     'Austrian Grand Prix', 
-'Styrian Grand Prix', 
-    'Hungarian Grand Prix',
-    'British Grand Prix', 
-    '70th Anniversary Grand Prix', 
-    'Spanish Grand Prix', 'Belgian Grand Prix', 
-    'Italian Grand Prix', 'Tuscan Grand Prix', 
-    'Russian Grand Prix',
-    'Eifel Grand Prix', 
-    'Portuguese Grand Prix', 'Emilia Romagna Grand Prix', 
-    'Turkish Grand Prix', 
-    'Abu Dhabi Grand Prix',
-    'Bahrain Grand Prix', 'Sakhir Grand Prix',
+# 'Styrian Grand Prix', 
+#     'Hungarian Grand Prix',
+#     'British Grand Prix', 
+#     '70th Anniversary Grand Prix', 
+#     'Spanish Grand Prix', 'Belgian Grand Prix', 
+#     'Italian Grand Prix', 'Tuscan Grand Prix', 
+#     'Russian Grand Prix',
+#     'Eifel Grand Prix', 
+#     'Portuguese Grand Prix', 'Emilia Romagna Grand Prix', 
+#     'Turkish Grand Prix', 
+#     'Abu Dhabi Grand Prix',
+#     'Bahrain Grand Prix', 'Sakhir Grand Prix',
     
 
 ]
