@@ -18,23 +18,26 @@ def events_available(year: int) -> any:
 
 
 events = [
-    # 'Austrian Grand Prix', 
-#  'Sakhir Grand Prix',
-#     'Hungarian Grand Prix',
-#     'British Grand Prix', 
-#     '70th Anniversary Grand Prix', 
-#     'Spanish Grand Prix', 'Belgian Grand Prix', 
-#     'Italian Grand Prix', 'Tuscan Grand Prix', 
-#     'Russian Grand Prix',
-    
-    # 'Portuguese Grand Prix', 
-    # 'Turkish Grand Prix', 
-    # 'Abu Dhabi Grand Prix',
-    # 'Bahrain Grand Prix', 
 
-    # 'Styrian Grand Prix',
-    # 'Eifel Grand Prix', 
-    'Emilia Romagna Grand Prix', 
+'70th Anniversary Grand Prix', 
+'Abu Dhabi Grand Prix',
+'Austrian Grand Prix', 
+'Bahrain Grand Prix', 
+'Belgian Grand Prix', 
+'British Grand Prix', 
+'Eifel Grand Prix', 
+ 'Emilia Romagna Grand Prix', 
+    'Hungarian Grand Prix',
+    'Italian Grand Prix',
+'Portuguese Grand Prix', 
+    'Russian Grand Prix',    
+ 'Sakhir Grand Prix',    
+    'Spanish Grand Prix', 
+      'Styrian Grand Prix',
+     'Turkish Grand Prix', 
+     'Tuscan Grand Prix', 
+    
+    
 
 ]
          
