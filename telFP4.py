@@ -51,7 +51,7 @@ class TelemetryExtractor:
  'Emilia Romagna Grand Prix', 
 
 ]
-        self.sessions = sessions or  [ "Practice 1", "Qualifying" ,"Race"] #"Practice 3" , "Practice 2",
+        self.sessions = sessions or  [ "Practice 3" , "Practice 2"] #"Practice 3" , "Practice 2",
 
     def get_session(
         self, event: Union[str, int], session: str, load_telemetry: bool = False
