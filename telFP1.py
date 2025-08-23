@@ -58,18 +58,18 @@ class TelemetryExtractor:
             # "Tuscan Grand Prix",
             # "Russian Grand Prix",
             
-            "Portuguese Grand Prix",
+            # "Portuguese Grand Prix",
             # "Emilia Romagna Grand Prix",
             # "Turkish Grand Prix",
             # "Bahrain Grand Prix",
             # "Sakhir Grand Prix",
             # "Abu Dhabi Grand Prix",
 
-            # "Eifel Grand Prix",
+            "Eifel Grand Prix",
         ]
         self.sessions = sessions or [
-            "Practice 1",
-            "Practice 2",
+            # "Practice 1",
+            # "Practice 2",
             "Practice 3",
             "Qualifying",
             "Race",
