@@ -32,14 +32,14 @@ DEFAULT_YEAR = 2020
 TARGET_EVENT_NAMES_LIST = [
 
 # '70th Anniversary Grand Prix', 
-'Abu Dhabi Grand Prix',
+# 'Abu Dhabi Grand Prix',
 # 'Austrian Grand Prix', 
 # 'Bahrain Grand Prix', 
 # 'Belgian Grand Prix', 
 # 'British Grand Prix', 
 # 'Eifel Grand Prix', 
 #  'Emilia Romagna Grand Prix', 
-#     'Hungarian Grand Prix',
+    'Hungarian Grand Prix',
 #     'Italian Grand Prix',
 # 'Portuguese Grand Prix', 
 #     'Russian Grand Prix',    
