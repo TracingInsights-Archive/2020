@@ -40,14 +40,14 @@ TARGET_EVENT_NAMES_LIST = [
 # 'Eifel Grand Prix', 
 #  'Emilia Romagna Grand Prix', 
 #     'Hungarian Grand Prix',
-    'Italian Grand Prix',
+    # 'Italian Grand Prix',
 # 'Portuguese Grand Prix', 
 #     'Russian Grand Prix',    
 #  'Sakhir Grand Prix',    
 #     'Spanish Grand Prix', 
 #       'Styrian Grand Prix',
 #      'Turkish Grand Prix', 
-#      'Tuscan Grand Prix', 
+     'Tuscan Grand Prix', 
     
     
 
