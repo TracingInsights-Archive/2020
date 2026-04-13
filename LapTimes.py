@@ -69,7 +69,7 @@ TARGET_SESSIONS = [
     "Practice 1",
     "Practice 2",
     "Practice 3",
-    "Qualif/ying",
+    "Qualifying",
     # "Sprint Qualifying",
     # "Sprint",
     # "Race",
